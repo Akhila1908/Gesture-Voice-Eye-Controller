@@ -71,8 +71,11 @@ Vertical: Adjust system volume
 Horizontal: Adjust screen brightness
 
 ## Procedure
-1. 
 
+Open Anaconda Prompt and clone the repository 
+```bash
+https://github.com/Akhila1908/Gesture-Voice-Eye-Controller.git
+```
 Step 1:
 ```bash
   conda create --name gest python=3.9.24    
